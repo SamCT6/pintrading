@@ -1,0 +1,13 @@
+{
+  "name": "Pinfolio — Pin Collection Tracker",
+  "short_name": "Pinfolio",
+  "description": "Organize your pin collection, wishlist, and trades with friends.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#101b33",
+  "icons": [
+    { "src": "/pinfolio-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
